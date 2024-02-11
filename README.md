@@ -2,10 +2,10 @@
     Valentine's Wish
 </h1>
 
-[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/GovindCodes)
+[![Author](https://img.shields.io/badge/author-GovindCodes-green)](https://github.com/kiongoss)
 
 
-#### [See it Live](https://govindcodes.github.io/ValentineWish/)
+#### [See it Live](https://merisha.vercel.app/)
 
 ## Make your own version :computer:
 
